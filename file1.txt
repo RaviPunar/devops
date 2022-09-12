@@ -1,1 +1,2 @@
 Content of the new file
+file edited now
